@@ -1,4 +1,4 @@
-package javapractice;
+package javapracice1;
 import java.util.Scanner;
 public class Stringpalindrome2 {
 
